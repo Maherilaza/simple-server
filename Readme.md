@@ -7,7 +7,7 @@ A simple example of a web server made in Rust
 
 **Installation git**
 ```bash
-cargo install --git https://github.com/Maherilaza/rust-shellcode-injection
+cargo install --git https://github.com/Maherilaza/simple-server
 ```
 
 **How to use**
